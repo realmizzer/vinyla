@@ -1,6 +1,6 @@
 module.exports = {
   root: true,
-  extends: ['@react-native', '@feature-sliced'],
+  extends: ['@feature-sliced'],
   parser: '@typescript-eslint/parser',
   settings: {
     'import/resolver': {
